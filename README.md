@@ -22,7 +22,4 @@ The main featutes are-
 #Rating
 #Quantity
 
-About:-
-Prathamesh Karanjkar
-8308366678
-karanjkarprathamesh0728@gmail.com
+
